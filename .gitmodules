@@ -1,0 +1,3 @@
+[submodule "pyscipopt"]
+	path = pyscipopt
+	url = https://github.com/marouane-f/pyscipopt

@@ -1,0 +1,53 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "branchprice_jssp: Branch and Price for Job-Shop Scheduling with Time-Dependent Costs and Cardinality Resource Constraints"
+type: software
+authors:
+  - family-names: Felloussi
+    given-names: Marouane
+    orcid: https://orcid.org/0009-0005-1351-5403
+    affiliation: "Mines Saint-Etienne / Zuse Institute Berlin"
+  - family-names: Ghannam
+    given-names: Mohammed
+    orcid: https://orcid.org/0000-0001-9422-7916
+    affiliation: "Zuse Institute Berlin"
+  - family-names: Dionísio
+    given-names: João
+    orcid: https://orcid.org/0009-0005-5160-0203
+    affiliation: "Zuse Institute Berlin / Universidade do Porto"
+  - family-names: Gianessi
+    given-names: Paolo
+    orcid: https://orcid.org/0000-0001-5457-3689
+    affiliation: "Mines Saint-Etienne"
+  - family-names: Delorme
+    given-names: Xavier
+    orcid: https://orcid.org/0000-0002-9465-1255
+    affiliation: "Mines Saint-Etienne"
+preferred-citation:
+  type: conference-paper
+  title: "Branch and Price for Job-Shop Scheduling with Time-Dependent Costs and Cardinality Resource Constraints"
+  authors:
+    - family-names: Felloussi
+      given-names: Marouane
+      orcid: https://orcid.org/0009-0005-1351-5403
+    - family-names: Ghannam
+      given-names: Mohammed
+      orcid: https://orcid.org/0000-0001-9422-7916
+    - family-names: Dionísio
+      given-names: João
+      orcid: https://orcid.org/0009-0005-5160-0203
+    - family-names: Gianessi
+      given-names: Paolo
+      orcid: https://orcid.org/0000-0001-5457-3689
+    - family-names: Delorme
+      given-names: Xavier
+      orcid: https://orcid.org/0000-0002-9465-1255
+  collection-title: "International Symposium on Combinatorial Optimization (ISCO)"
+  year: 2026
+keywords:
+  - job-shop scheduling
+  - time-dependent costs
+  - resource constraints
+  - branch-and-price
+  - column generation
+  - integer programming

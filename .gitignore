@@ -1,0 +1,40 @@
+# PyCharm project files
+.idea/
+
+# Python-related ignores
+__pycache__/
+*/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+scip_venv/
+env/
+
+# Logs and temp files
+*.log
+*.cip
+*.mps
+*.lp
+*.jl
+.DS_Store
+
+*.so
+*.c
+*.egg-info/
+results/*
+/build/*
+*/build/*
+old_logs/*
+experiments/
+analysis/json_output*/
+
+# analyze_all.py outputs run-named subdirs and top-level CSVs in analysis/;
+# the tracked paper outputs live under analysis/paper_results/ and are unaffected
+analysis/aggregated_results_*.csv
+analysis/analysis_*.csv
+analysis/analysis_*.txt
+analysis/best_bounds_by_instance.csv
+
+# vscode stuff
+.vscode/*
